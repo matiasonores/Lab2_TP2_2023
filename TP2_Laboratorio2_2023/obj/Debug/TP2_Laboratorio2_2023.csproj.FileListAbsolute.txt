@@ -9,3 +9,7 @@ E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\bin\D
 E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\bin\Debug\TP2_Laboratorio2_2023.pdb
 E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.exe
 E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.pdb
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.Formularios.FCasa.resources
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.Formularios.FHotel.resources
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.Formularios.FCliente.resources
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.Formularios.FReserva.resources

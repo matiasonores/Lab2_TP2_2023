@@ -26,7 +26,6 @@ namespace TP2_Laboratorio2_2023.Modelos
 
         public override void CalcularCosto()
         {
-            
             Costo = Servicios * PrecioBase;
         }
     }
