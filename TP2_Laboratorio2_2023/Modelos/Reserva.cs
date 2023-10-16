@@ -9,8 +9,26 @@ namespace TP2_Laboratorio2_2023.Modelos
 {
     public class Reserva
     {
-        public ArrayList Fechas { get; set; }
+        
+
+        // ArrayList de Tipo DateTime
+        public DateTime FechaInicio { get; set; }
+        public DateTime FechaFin { get; set; }
+        int idReserva;
+        // ArrayList de Tipo int
+
+        public int nroHabitacion { get; set; }
+        // ArrayList de Tipo Cliente
 
         public Cliente Cliente { get; set; }
+
+        public Reserva(DateTime fechaInicio, DateTime fechaFin, int nroHabitacion,string nombre,int dni,int idReserva)
+        {
+            FechaInicio = fechaInicio;
+            FechaFin = fechaFin;
+            this.nroHabitacion = nroHabitacion;
+            Cliente = new Cliente(nombre,dni);
+            this.idReserva = idReserva;
+        }   
     }
 }

@@ -16,5 +16,10 @@ namespace TP2_Laboratorio2_2023
         {
             InitializeComponent();
         }
+
+        private void btn_CrearCliente(object sender, EventArgs e)
+        {
+
+        }
     }
 }

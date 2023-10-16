@@ -15,10 +15,9 @@ namespace TP2_Laboratorio2_2023.Modelos
         public double Costo { get; set; }
 
         public bool estaReservado = false;
-        public DateTime FechaInicioReserva { get; set; } //Min
-        public DateTime FechaFinReserva { get; set; } //Max
-        public ArrayList FechasReservadas { get; set; }
-        public ArrayList FechasDisponibles { get; set; }
+        public DateTime FechaDisponibilidad { get; set; } //Min
+        public DateTime FechaFinDisponibilidad { get; set; } //Max
+        //public ArrayList FechasReservadas { get; set; }
 
         public string Direccion { get; set; }
         public ArrayList Imagenes { get; set; } //Guardamos la coleccion de rutas de las imagenes cargadas en el sistema
@@ -27,11 +26,11 @@ namespace TP2_Laboratorio2_2023.Modelos
         {
             
         }
-        public Propiedad(DateTime fechaInicioReserva, DateTime fechaFinReserva, DateTime[] fechasReservadas)
+        public Propiedad(DateTime FechaDisponibilidad, DateTime FechaFinDisponibilidad)
         {
-            this.estaReservado = true;
-            FechaInicioReserva = fechaInicioReserva;
-            FechaFinReserva = fechaFinReserva;
+            this.estaReservado = false;
+            this.FechaDisponibilidad = FechaDisponibilidad;
+            this.FechaFinDisponibilidad = FechaFinDisponibilidad;
             Reservas = new ArrayList();
         }
 

@@ -11,11 +11,11 @@ namespace TP2_Laboratorio2_2023.Modelos
         public string  Nombre { get; set; }
         public int DNI { get; set; }
 
-        public string Nashe { get; set; }
 
-        public Cliente()
+        public Cliente(string nombre,int dni)
         {
-            Nashe = ":)";
+          Nombre= nombre;
+            DNI= dni;
         }
     }
 }
