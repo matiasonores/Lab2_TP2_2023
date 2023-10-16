@@ -1,0 +1,11 @@
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.csproj.AssemblyReference.cache
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.csproj.SuggestedBindingRedirects.cache
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.Form1.resources
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.Properties.Resources.resources
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.csproj.GenerateResource.cache
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.csproj.CoreCompileInputs.cache
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\bin\Debug\TP2_Laboratorio2_2023.exe.config
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\bin\Debug\TP2_Laboratorio2_2023.exe
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\bin\Debug\TP2_Laboratorio2_2023.pdb
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.exe
+E:\UTN\Laboratorio 2\Proyectos\TP2_Laboratorio2_2023\TP2_Laboratorio2_2023\obj\Debug\TP2_Laboratorio2_2023.pdb
